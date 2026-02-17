@@ -1,3 +1,6 @@
+
+<img width="434" height="579" alt="Picture1" src="https://github.com/user-attachments/assets/86f2d73e-03a6-49b3-90c3-1d54ffc6dc1f" />
+
 # Nvidia-JetRacer-Pro-AI-kit
 
 This project focuses on implementing autonomous driving capabilities on the JetRacer Pro AI Kit.
@@ -22,7 +25,8 @@ Features:
    
 
 
-The basic motion, teleoperation and road following codes were already provided to us by JetRacer Wiki (https://www.waveshare.com/wiki/JetRacer_Pro_AI_Kit?srsltid=AfmBOoqF7iE91rC4y-dcaFzcc81nGKchYrRWgNz4CNZ2A2izwW4enjkZ#Road-following).
+The basic motion, teleoperation and road following codes were already provided to us by JetRacer Wiki (https://www.waveshare.com/wiki/JetRacer_Pro_AI_Kit?srsltid=AfmBOoqF7iE91rC4y-dcaFzcc81nGKchYrRWgNz4CNZ2A2izwW4enjkZ#Road-following).![Uploading Picture1.png…]()
+
 
 In order for the bot to drive autonomously along the track, we had to drive the bot manually, move a small position, stop and take a picture of the track using the interactive-regression.ipynb file and the bot's camera. We did around 25-30 laps for every data collection process, i.e road following, stop sign detection and obstacle avoidance. 
 
