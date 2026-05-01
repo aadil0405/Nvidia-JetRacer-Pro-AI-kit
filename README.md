@@ -24,14 +24,14 @@ Following training using computer vision and machine learning techniques, the ro
    <img width="480" height="268" alt="Robot Car Track" src="https://github.com/user-attachments/assets/4707d5aa-b22b-4bd8-adfa-6c0e0c928ed5" />
 </p>
 
-#### 2) Red Stop Sign Detection & Stop
+#### 2) Stop Sign Detection and Stopping
 > The robot detects a red sign in its field of view and comes to a complete stop for 3 seconds and then continues driving along it's predefined lane.
 
 <p align="center">
    <img width="480" height="268" alt="Robot Car Stop" src="https://github.com/user-attachments/assets/7c7e2c62-2772-47c9-ad31-994163b3e2da" />
 </p>
 
-#### 3) Car Avoidance
+#### 3) Car Obstacle Detection and Navigation
 > When another car is placed on the lane, the JetRacer detects it and performs an avoidance maneuver to continue driving safely. 
 
 <p align="center">
